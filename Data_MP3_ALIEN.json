@@ -1,0 +1,98 @@
+{
+  
+"Iklan": [
+    {
+      "pengaturan_iklan" : "1",
+      "interval_intertitial": 4,
+      "intertitial_splash":"0",
+
+      "pub_id":"pub-3940256099942544",
+      "admob_app_id":"ca-app-pub-3940256099942544~3347511713",
+      "intertitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+      "reward_admob":"ca-app-pub-3940256099942544/5224354917",
+
+      "status":"0",
+      "link_redirect":"https://play.google.com/store/apps/details?id=com.ad.tesiqkepribadia&hl=en",
+
+      "deskripsi_update":"Please update the application to the latest version to get additional features.",
+      "version_json": 1,
+      
+      "startappid":"123456789",
+      
+      "id_inmobi":"1234567890qwerty0987654321qwerty12345",
+      "inmobi_inter":1476878485960,
+      "inmobi_banner":1473189489298,
+
+      "reward_id_unity":"3378190",
+      "palace_id_unity":"rewardedVideo",
+
+      "fan_inter":"981545408591412_999151030164183",
+      "fan_banner_native":"981545408591412_2709037092508893",
+
+      "more_app":"https://play.google.com/store/apps/developer?id=AlienDroid"
+
+
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "nama": "Khalid Basalamah",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROwElsPbRjGorexrGrsF7tJ1DNqH4fSzd8qftFviHQWv5Dn3tS"
+     
+    },
+    {
+      "id": 2,
+      "nama": "Hanan Attaki",
+      "gambar": "https://cdn2.boombastis.com/wp-content/uploads/2019/03/Menilik-Masjid-Gaul-di-Indonesia-Ala-Ustadz-Hanan-Attaki-Ada-Apa-Sebenarnya.jpg"
+    
+    }
+  ],
+  "Mainkan": [
+    {
+      "no": 1,
+      "idmp3": "1",
+      "nama_aut": "Khalid Basalamah",
+      "Judul": "Perintah dan larangan Allah",
+      "url_mp3": "https://alienmp3.000webhostapp.com/Perintahdanlarangan.mp3",
+      "lirik": "<p>Sahabat, pernahkah berpikir mengapa Islam memiliki banyak larangan untuk umatnya? Tidak boleh mengonsumsi makanan dan minuman haram yang seperti ini dan itu, tidak boleh durhaka pada orangtua, tidak boleh memakan harta secara bathil, tidak boleh berzina, tidak boleh menyimpan harta untuk diri sendiri saja, tidak boleh makan riba, dan lain sebagainya? <br />Sebenarnya antara wajar dan lucu jika kita terpikir pertanyaan seperti itu. Wajar karena memang banyak orang di luar Islam yang hidupnya bebas-sebebas bebasnya namun terlihat tidak kenapa-napa, hidupnya tampak tak bermasalah apapun. Jadi seolah pertanyaan ini masuk akal dan wajar saja.<br />Akan tetapi sebenarnya pertanyaan ini juga mengandung kelucuan, karena jangankan hidup yang banyak aturan dan larangan, kita membeli barang elektronik saja banyak aturan dan larangan juga.</p>"
+     
+    },
+    {
+       "no": 2,
+      "idmp3": "2",
+      "nama_aut": "Khalid Basalamah",
+      "Judul": "Peringatan terhadap dosa",
+      "url_mp3": "https://alienmp3.000webhostapp.com/PeringatanDosa.mp3",
+      "lirik": "<p>Dosa dalam Islam memiliki varian nama yang berbeda-beda dengan berbagai makna yang berbeda pula, serta berbagai akibat dari perbuatan yang berbeda. Dosa (dalam arti umum) tidak sesederhana pengertian dosa itu sendiri, ia dianggap dosa (dengan nama-nama tertentu) setelah melakukan suatu perbuatan dengan hukum tertentu yang melekat, demikian juga dengan ampunan dalam dosa tersebut. Maka dalam Islam ada beberapa nama untuk menyebutkan kata dosa, yaitu; al-Itsm, adz-Dzanb, al-Khathiah, asy-Syar, al-Hints, adz-Dzanb, as-Sayyiah, al-Ma&rsquo;shiyah, al- Jurm, al-haram, al-Fisq, al-fasad, al-Fujur, al-Munkar, al-Fahisyah, al-Khabt, al-Lamama, al- Wizr wats-tsiqal.</p>"
+    
+    },
+    {
+        "no": 3,
+      "idmp3": "3",
+      "nama_aut": "Hanan Attaki",
+      "Judul": "Tobat pemuda yang berzina",
+      "url_mp3": "https://alienmp3.000webhostapp.com/pemudajinah_hanan.mp3",
+      "lirik": "<p>Zina adalah perbuatan yang keji dan buruk. Ia merusak kehidupan dunia dan agama seseorang, mematikan rasa malu, mencoreng kehormatan, menyeret pelakunya ke segala jenis keburukan dan diakhiri dengan kekejian.</p>
+<p>Allah Subhanahu wa Ta&rsquo;ala berfirman: &rdquo;Dan janganlah kamu mendekati zina; sesungguhnya zina itu adalah suatu perbuatan yang keji. Dan suatu jalan yang buruk.&rdquo; (QS. Al-Israa&rsquo;: 32)</p>"
+    
+    },
+    {
+        "no": 4,
+      "idmp3": "4",
+      "nama_aut": "Hanan Attaki",
+      "Judul": "Biarlah Allah yang menggenggam hatimu",
+      "url_mp3": "https://alienmp3.000webhostapp.com/genggamhatimu_hanan.mp3",
+      "lirik": "<p>Banyak orang yang salah memahami dan menempatkan arti tawakal yang sesungguhnya. Sehingga tatkala kita mengingatkan mereka tentang pentingnya tawakal yang benar dalam kehidupan manusia, tidak jarang ada yang menanggapinya dengan ucapan: &ldquo;<em>Iya, tapi kan bukan cuma tawakal yng harus diperbaiki, usaha yang maksimal juga harus terus dilakukan!</em>&rdquo;.</p>
+<p>Ucapan di atas sepintas tidak salah, akan tetapi kalau kita amati dengan seksama, kita akan dapati bahwa ucapan tersebut menunjukkan kesalahpahaman banyak orang tentang makna dan kedudukan yang sesungguhnya. Karena ucapan di atas terkesan memisahakan antara tawakal dan usaha. Padahal, menurut penjelasan para ulama, <strong>tawakal adalah bagian dari usaha, bahkan usaha yang paling utama untuk meraih keberhasilan.</strong></p>
+<p>&nbsp;</p>"
+     
+    }
+    
+  
+    
+    
+    
+  ]
+}
